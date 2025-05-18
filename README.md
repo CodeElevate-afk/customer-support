@@ -48,7 +48,7 @@ Edit
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/customer-support-chat.git
+   git clone https://github.com/CodeElevate-afk/customer-support.git
    cd customer-support-chat
 Install dependencies
 
